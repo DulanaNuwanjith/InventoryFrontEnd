@@ -1,2 +1,2 @@
-# InventoryFrontEnd
-angular
+# InventoryFrontEnd&BackEnd
+Angular & Sringboot / mongoDB
